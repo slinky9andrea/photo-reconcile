@@ -129,3 +129,7 @@ or from `$PHOTO_RECONCILE_BACKUP_PASSWORD`. Otherwise you're asked for it.
 ## License
 
 MIT
+
+## Credit
+
+Vibe-coded with Claude Opus 5.5 Medium
